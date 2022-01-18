@@ -6,7 +6,6 @@
 __version__ = "0.1.0"
 __author__ = "Guy WEILER weigu.lu"
 __copyright__ = "Copyright 2022, weigu.lu"
-#__credits__ = ["Guy WEILER", ]
 __license__ = "GPL"
 __maintainer__ = "Guy WEILER"
 __email__ = "weigu@weigu.lu"
@@ -28,7 +27,7 @@ IP_DICT =  {'192.168.1.50':'myNAS',
             '192.168.1.99':'myImportantServer',
             '192.168.1.100':'myIoTSensor',
             '192.168.1.101':'myMy',
-          }
+           }
 
 ##############################################################################
 
